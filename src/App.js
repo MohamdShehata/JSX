@@ -5,7 +5,7 @@ import './Style.css';
 const App=()=> {
   
   return (
-   <React.Fragment >
+   <React.Fragment>
       
       <h1 style={{color:'purple', fontFamily: 'Dancing Script',fontWeight: 'bold',fontSize: 80,textAlign: "center"}}>Dua Lipa</h1>
       <br ></br>
